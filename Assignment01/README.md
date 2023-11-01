@@ -1,5 +1,4 @@
 # FZU-CG-HomeWork01
-102101244魏知乐
 
 ## 环境
 系统：macOS Ventura13.5.2
