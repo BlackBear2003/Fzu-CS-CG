@@ -1,3 +1,0 @@
-/Library/vscode/C++/CG/Assignment03/build/CMakeFiles/RayTracing.dir
-/Library/vscode/C++/CG/Assignment03/build/CMakeFiles/edit_cache.dir
-/Library/vscode/C++/CG/Assignment03/build/CMakeFiles/rebuild_cache.dir
